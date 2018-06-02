@@ -1,5 +1,5 @@
 /*
- * Ashish Shrestha
+ * Aasys Sresta
  * GPIO fun kernel arch
  * Instructions:
  *      add 'gpiofun' under 'link' in 'pi2' file
